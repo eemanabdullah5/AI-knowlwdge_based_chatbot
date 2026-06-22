@@ -1,0 +1,9 @@
+google-genai
+fastapi
+uvicorn
+python-dotenv
+chromadb
+sentence-transformers
+docling
+streamlit
+requests

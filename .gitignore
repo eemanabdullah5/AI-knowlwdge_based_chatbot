@@ -1,0 +1,11 @@
+# Ignore environment variables holding private API keys
+.env
+
+# Ignore your local vector database files
+chroma_db/
+temp_data/
+
+# Ignore python virtual environments
+.venv/
+__pycache__/
+*.pyc
